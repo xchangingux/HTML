@@ -1,0 +1,33 @@
+[
+  {
+    "key": "vpn",
+    "title": "VPN - Site to Site",
+    "description": "Secure access to the Xchanging Cloud through client VPN or IPsec point-to-point VPN tunnel. Fully self-service."
+  },
+  {
+    "key": "firewall",
+    "title": "Additional VLAN/Firewall",
+    "description": "Administer custom firewall policies within a single data center and across multiple data centers; create and manage VLANs.  First VLAN free."
+  },
+  {
+    "key": "shared-load-balancer",
+    "title": "Shared Load Balancer",
+    "description": "Self-service product to help cloud applications perform as traffic rapidly changes."
+  },
+  {
+    "key": "dedicated-load-balancer-200",
+    "title": "Dedicated Load Balancer (200Mbps traffic)",
+    "description": "NetScaler Standard Edition; Enterprise Edition also available. Includes the monthly cost of a VM that powers the Load Balancer."
+  },
+  {
+    "key": "dedicated-load-balancer-1000",
+    "title": "Dedicated Load Balancer (1000Mbps traffic)",
+    "description": "NetScaler Standard Edition; Enterprise Edition also available. Includes the monthly cost of a VM that powers the Load Balancer."
+  },
+  {
+    "key": "external-ip-address",
+    "title": "External IP Address",
+    "description": "Make your Xchanging Cloud servers available via public internet. Fully self-service.",
+    "input": "select"
+  }
+]
